@@ -8,7 +8,7 @@
 
 -- ===================== CONFIG =====================
 local API_URL = "http://127.0.0.1:8787/validate"  -- your public HTTPS /validate endpoint
-local SCRIPT_URL = "https://raw.githubusercontent.com/wasabi00ramen-coder/Test1234567/refs/heads/main/Testscript.lua"
+local SCRIPT_URL = "https://raw.githubusercontent.com/wasabi00ramen-coder/prestige/refs/heads/main/prestige.lua"
 local RECHECK_INTERVAL = 60
 -- ==================================================
 
