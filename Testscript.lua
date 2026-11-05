@@ -7,7 +7,7 @@
 
 -- ===================== CONFIG =====================
 -- MUST be a PUBLIC https URL. 127.0.0.1 will NEVER work from Roblox.
-local API_URL = "https://YOUR_PUBLIC_API_URL/validate"
+local API_URL = "http://127.0.0.1:8787/validate"
 
 -- Your main script
 local SCRIPT_URL = "https://raw.githubusercontent.com/wasabi00ramen-coder/Test1234567/refs/heads/main/Testscript.lua"
